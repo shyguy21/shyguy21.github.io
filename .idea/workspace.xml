@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca980bba-a6e1-4496-8fab-eee3d6c663e2" name="Default Changelist" comment="" />
+    <list default="true" id="28aeda56-a11e-4415-8b88-cdabe8fd46bc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1X0BFUZuc5LF1NMZPAzHjrDbpJY" />
+  <component name="ProjectId" id="1ZatprWaZSEQtBUe0RoGVnIlDQr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -42,26 +38,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ca980bba-a6e1-4496-8fab-eee3d6c663e2" name="Default Changelist" comment="" />
-      <created>1580173027097</created>
+      <changelist id="28aeda56-a11e-4415-8b88-cdabe8fd46bc" name="Default Changelist" comment="" />
+      <created>1585089219277</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580173027097</updated>
-      <workItem from="1580173028468" duration="36321000" />
-      <workItem from="1581016191646" duration="4116000" />
-      <workItem from="1581113306905" duration="571000" />
-      <workItem from="1581344433471" duration="14364000" />
-      <workItem from="1581615246335" duration="625000" />
+      <updated>1585089219277</updated>
+      <workItem from="1585089224004" duration="129000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="385" y="196" width="670" height="158" key="search.everywhere.popup" timestamp="1580390233372">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="196" width="670" height="158" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580390233372" />
   </component>
 </project>
