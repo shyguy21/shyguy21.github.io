@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Web page design Shayan</title>
+    <meta name="Shayan" content="main page"/>
+    <meta name="main page" content="main page"/>
+    <link href="https://fonts.googleapis.com/css?family=Courier+Prime&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 1fr 1fr 1fr;
+            grid-template-areas: "header header header"
+                                 "navigation main main"
+                                 "footer footer footer";
+        }
+         .header {
+            grid-area: header;
+
+        }
+        .navigation {
+            grid-area: navigation;
+        }
+        .main {
+            grid-area: main;
+        }
+        .footer {
+            grid-area: footer;
+        }
+        body {
+            background: lightblue;
+
+        }
+        a:link {
+            text-decoration: none;
+        }
+
+        a:visited {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        a:active {
+            text-decoration: underline;
+        }
+        a:link {
+            color: red;
+        }
+
+        a:visited {
+            color: green;
+        }
+        a:hover {
+            color: hotpink;
+        }
+        b {
+            margin-top: 300px;
+
+        }
+        p {
+            text-decoration: none;
+            padding: 0;
+            margin-right: 200px;
+            font-family: 'Pacifico', cursive;
+
+        }
+        .ext_header {
+            text-decoration: none;
+        }
+        h3 {
+            padding: 0;
+            margin-top: 0;
+        }
+        h1 {
+            background-image: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/02/android-loves-apple.jpeg);
+            color: darkred;
+            font-size: 32px;
+            position: absolute;top: 0;left: 0;
+            text-align: center;
+            padding: 58px;
+            width: 93.3%;
+            margin-top: 0;
+            font-family: 'Courier Prime', monospace;
+        }
+        h2 {
+            padding: 10px;
+            position: absolute;top: 0;left: 0;
+            width: 100%;
+            margin-top: 236px;
+            background-color: rgba(100,100,100,0.5);
+        }
+        ul{
+            margin-top: 10px;
+            padding: 100px;
+            position: absolute;top: 0;left:10px;
+
+        }
+        li {
+            position: absolute;top: 0;left: 0;
+            margin-bottom: 5px;
+            text-decoration: none;
+            padding: 35px;
+            background-color: lightpink;
+            background-color: rgba(128, 128, 128, 0.5)
+        }
+        img {
+            border: 5px solid black;
+            margin-top:125px;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1><p><b>Iphone 11 vs Samsung Galaxy S10+</b></p></h1>
+                <div class="ext_header">
+                <h2>
+                    <p> <a href="html.file.html">Home page</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="contentpage1.html"> About Iphone 11</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="contentpage2.html"> About samsung galaxy s10+</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="contentpage3.html"> Overall review</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="aboutmyproject.html"> About my project</a> </p>
+                </h2>
+                </div>
+        </div>
+        <div class="navigation">
+            <img src="Images2/samsung%20pink.jpg"
+                 alt="Samsung Galaxy S10+"
+                 width="207"/>
+            <img src="Images2/Iphone%20black.jpg"
+                 alt="Iphone11pro"
+                 width="242"/>
+            <a href="https://www.apple.com/ca/iphone-11-pro/">Iphone 11</a>
+            <a href="https://www.samsung.com/ca/smartphones/galaxy-s10/">Samsung galaxy S10+</a>
+        </div>
+        <div class="main">
+            <h3>This product review will showcase the Iphone 11 vs the Samsung galaxy S10+ and finally decide which company's latest releases are the better one.</h3>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
